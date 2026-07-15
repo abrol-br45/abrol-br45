@@ -4,7 +4,7 @@
 💻 Passionate about Machine Learning, Backend Development, and Cloud Systems
 🚀 Building scalable, real-world, data-driven applications
 
-> 🔗 This is my professional/project account — see also [github.com/breaseabrol](https://github.com/breaseabrol) for my personal profile.
+> 🔗 This is my university account — see also [github.com/breaseabrol](https://github.com/breaseabrol) for my personal profile.
 
 ---
 
@@ -48,20 +48,16 @@
 
 ## 📌 Featured Projects
 
-### 🏠 House Price Prediction API
-* Built an **XGBoost ML pipeline** with real-time prediction via FastAPI
-* Containerized microservices using **Docker + Kubernetes**
-* Implemented **model versioning and reproducible inference**
+### Collaborative Game Development using Java and LibGDX
+* Accomplished delivery of a fully playable single-player game, as measured by 3 boss entities and 2 event-driven mini
+games integrated, by developing projectile mechanics and collision detection in Java and LibGDX with a team of 41
+students
+* Accomplished seamless integration across a large, multi-contributor codebase, as measured by consistent build
+stability, by collaborating using Git for version control
+* Accomplished reliable, quality software delivery, as measured by 6+ passing unit tests across 4 sprints, by following
+Agile/Scrum methodology and using Gradle for integration testing and JUnit for unit testing
 
 <!-- 💡 If this project (or others) actually lives on breaseabrol instead, swap in the repos that are hosted on THIS account, so each profile reflects what's really here. -->
-
----
-
-## 📈 What I'm Working On
-
-* Advanced **machine learning deployment**
-* **Scalable backend system design**
-* Preparing for **software engineering internships**
 
 ---
 
